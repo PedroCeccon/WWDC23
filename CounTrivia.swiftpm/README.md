@@ -20,7 +20,7 @@
 *   Boarding Screen with an intro and important information
 *   Tutorial Screen with instructions and details
 *   Thanks and Attribution Screen with some final words and the free license attributions
-*   Scree with informations of each country
+*   Screen with informations of each country
 *   Reveal the Answer before the time runs out
 *   Change country you're trying to guess before time runs out
 *   When your time is up, you can choose whether or not you want to see the correct answer
