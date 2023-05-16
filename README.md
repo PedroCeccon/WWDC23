@@ -4,8 +4,8 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="Resources/full-frame_lightmode.png#gh-light-mode-only" width=550px>
-  <img align="center" src="Resources/full-frame_darkmode.png#gh-dark-mode-only" width=550px>
+  <img align="center" src="Resources/full-frame_lightmode.png#gh-light-mode-only" width=570px>
+  <img align="center" src="Resources/full-frame_darkmode.png#gh-dark-mode-only" width=570px>
 </p>
 
 # WWDC23
